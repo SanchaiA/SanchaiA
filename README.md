@@ -2,9 +2,9 @@
 ### Верстальщик
 ---
 ### Примеры работ:
-- [Бургер](https://sanchaia.github.io/Module01-Burger/index.html)  
-- [Online-Gym](https://sanchaia.github.io/Module01-Gym/index.html#eventGraphic)  
-- [Shop](https://sanchaia.github.io/Module02-Shop/dist/)  
+- [Бургер](https://github.com/SanchaiA/Module01-Burger)  
+- [Online-Gym](https://github.com/SanchaiA/Module01-Gym)  
+- [Shop](https://github.com/SanchaiA/Module02-Shop)  
 - [Portfolio](https://sanchaia.github.io/Module02-Portfolio/dist/)  
 ---
 ### Связаться со мной:
